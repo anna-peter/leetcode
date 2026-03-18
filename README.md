@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
