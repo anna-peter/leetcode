@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+## Greedy
+|  |
+| ------- |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 <!---LeetCode Topics End-->
