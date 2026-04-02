@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
