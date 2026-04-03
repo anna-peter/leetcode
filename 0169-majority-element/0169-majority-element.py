@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count = 0
+        # thoughts: could maybe do sth with nums.sort()? and maybe even use a lambda
         # hashmap that maps for each value, the count
         unique_keys = {}
 
@@ -17,4 +17,8 @@ class Solution(object):
                 unique_keys[num] = 1
         
         return max(unique_keys, key=unique_keys.get)
+
+
+
+
             
