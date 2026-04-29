@@ -6,6 +6,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Math
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
