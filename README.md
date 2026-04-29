@@ -68,4 +68,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anna-peter/leetcode/tree/master/0657-robot-return-to-origin) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anna-peter/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
