@@ -8,6 +8,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
+| [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anna-peter/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Greedy
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
+| [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
+| [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 ## Simulation
 |  |
 | ------- |
