@@ -23,6 +23,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0657-robot-return-to-origin](https://github.com/anna-peter/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/anna-peter/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/anna-peter/leetcode/tree/master/0657-robot-return-to-origin) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/anna-peter/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Database
 |  |
 | ------- |
