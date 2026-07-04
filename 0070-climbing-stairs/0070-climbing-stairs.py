@@ -6,7 +6,6 @@ class Solution:
         if n <=2:
             return n
         dp = [0]*n
-        print(dp)
         dp[0] = 1
         dp[1] = 2
         for i in range(2,n):
