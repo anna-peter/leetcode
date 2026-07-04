@@ -33,10 +33,12 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0175-combine-two-tables](https://github.com/anna-peter/leetcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/anna-peter/leetcode/tree/master/0183-customers-who-never-order) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
