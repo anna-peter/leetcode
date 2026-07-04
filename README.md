@@ -7,6 +7,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
