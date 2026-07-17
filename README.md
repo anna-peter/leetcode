@@ -10,6 +10,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anna-peter/leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
