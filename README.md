@@ -11,6 +11,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0011-container-with-most-water](https://github.com/anna-peter/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
 | ------- |
