@@ -22,6 +22,9 @@ class Solution:
         while queue:
             for _ in range(len(queue)):
                 i,j = queue.popleft()
+                if (i,j) in visited:
+                    continue
+                visited.add((i,j))
                 current_val = image[i][j]
                 if current_val==input_color:
                     # adjacent value has the same color, paint it and add its children to the queue
