@@ -13,6 +13,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/anna-peter/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0001-two-sum](https://github.com/anna-peter/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anna-peter/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -166,4 +171,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
