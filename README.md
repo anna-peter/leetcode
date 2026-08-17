@@ -14,6 +14,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anna-peter/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/anna-peter/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/anna-peter/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0015-3sum](https://github.com/anna-peter/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/anna-peter/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/anna-peter/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
