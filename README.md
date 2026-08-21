@@ -18,12 +18,14 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/anna-peter/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/anna-peter/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anna-peter/leetcode/tree/master/0733-flood-fill) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/anna-peter/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
