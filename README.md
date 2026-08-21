@@ -20,6 +20,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0643-maximum-average-subarray-i](https://github.com/anna-peter/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anna-peter/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anna-peter/leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -55,6 +56,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0062-unique-paths](https://github.com/anna-peter/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
