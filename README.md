@@ -22,11 +22,13 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0733-flood-fill](https://github.com/anna-peter/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/anna-peter/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
+| [1004-max-consecutive-ones-iii](https://github.com/anna-peter/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/anna-peter/leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/anna-peter/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anna-peter/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/anna-peter/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/anna-peter/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anna-peter/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0035-search-insert-position](https://github.com/anna-peter/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anna-peter/leetcode/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/anna-peter/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
