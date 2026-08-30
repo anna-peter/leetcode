@@ -24,6 +24,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1004-max-consecutive-ones-iii](https://github.com/anna-peter/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/anna-peter/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anna-peter/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0347-top-k-frequent-elements](https://github.com/anna-peter/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0609-find-duplicate-file-in-system](https://github.com/anna-peter/leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anna-peter/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
