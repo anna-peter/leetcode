@@ -142,6 +142,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0112-path-sum](https://github.com/anna-peter/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anna-peter/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anna-peter/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anna-peter/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/anna-peter/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0199-binary-tree-right-side-view](https://github.com/anna-peter/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anna-peter/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/anna-peter/leetcode/tree/master/0733-flood-fill) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anna-peter/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/anna-peter/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0199-binary-tree-right-side-view](https://github.com/anna-peter/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anna-peter/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/anna-peter/leetcode/tree/master/0733-flood-fill) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anna-peter/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/anna-peter/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0112-path-sum](https://github.com/anna-peter/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anna-peter/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anna-peter/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anna-peter/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/anna-peter/leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Matrix
 |  |
