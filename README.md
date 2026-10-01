@@ -42,6 +42,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0811-subdomain-visit-count](https://github.com/anna-peter/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anna-peter/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/anna-peter/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1768-merge-strings-alternately](https://github.com/anna-peter/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/anna-peter/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anna-peter/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anna-peter/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anna-peter/leetcode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/anna-peter/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
